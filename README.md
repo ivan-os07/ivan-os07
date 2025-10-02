@@ -8,9 +8,9 @@
 </div>
 
 ## About me
+- 🤖 I am developing bots and API
 - 🌱 I am currently studying at university
 - 🌍 I learn English
-- 🤖 I develop bots and API
 ---
 
 ## Languages and tools
