@@ -1,16 +1,27 @@
-## Hi there 👋
+<div id="header" align="center">
+    <h1>Hi there, I'm Ivan Chizhov</h1>
+    <h3>Software developer from Yekaterinburg</h3>
+</div>
 
-<!--
-**ivan-os07/ivan-os07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <div id="socials" align="center"> -->
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+- 🌱 I am currently studying at university
+- 🌍 I learn English
+- 🤖 I develop bots and API
+---
+
+### Languages and tools
+
+
+### My stat
+
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivan-os07&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ivan-os07&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivan-os07&theme=github_dark" alt=""/>
+</div>
+
+---
