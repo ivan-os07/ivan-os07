@@ -44,5 +44,6 @@
 
 ---
 <div align="center">
-  <b>Thanks for visiting!</b>
+  <img src="https://raw.githubusercontent.com/ivan-os07/ivan-os07/main/assets/ebash.jpg" alt="My photo" width="130" style="border-radius: 85%;"/>
 </div>
+
