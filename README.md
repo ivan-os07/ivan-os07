@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNyajl5d3RpeTIwY2UzOWt5eGM5YTd4dXhtczNqMGgyNXk1MGt2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zWpm4CRynyYrC/giphy.gif" width="230"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNyajl5d3RpeTIwY2UzOWt5eGM5YTd4dXhtczNqMGgyNXk1MGt2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zWpm4CRynyYrC/giphy.gif" width="180"/>
   <h1>Hi there, I'm Ivan Chizhov 👋</h1>
   <h3>Software developer from Yekaterinburg, Russia</h3>
   <img src="https://komarev.com/ghpvc/?username=ivan-os07&style=flat-square&color=blue" alt="Profile views"/>
