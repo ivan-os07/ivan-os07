@@ -16,8 +16,8 @@
 - 🤖 I develop bots and backend API
 - 🎓 I'm a student
 - 🌍 Currently learning English
-- 🚀 Interested in Python backend, automation and DevOps
-
+- 🚀 Interested in backend, automation and DevOps
+- 🧙🏻 Math and computer science
 ---
 
 ## Languages and Tools
